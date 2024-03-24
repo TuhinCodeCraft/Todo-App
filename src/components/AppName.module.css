@@ -1,0 +1,14 @@
+.todoHeading {
+    font-weight: 800;
+    font-size: 2rem;
+    margin: 10px;
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 1.2;
+    font-family: Arial, sans-serif;
+    font-style: italic;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
